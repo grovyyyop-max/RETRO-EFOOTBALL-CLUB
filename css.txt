@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #0047AB; /* club color blue */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  background: #FF0000; /* club color red */
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+section {
+  padding: 20px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
